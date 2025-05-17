@@ -6,5 +6,5 @@
 </div>
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<p align="center">
-  <img src="https://i.imgur.com/CWzNElI.jpeg" alt="Centered Image" />
+  <img src="https://i.imgur.com/UTfRqKs.jpeg" alt="Centered Image" />
 </p>
