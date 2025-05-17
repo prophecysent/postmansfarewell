@@ -1,12 +1,10 @@
 <div align="center">
   
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ  
-<img src="https://komarev.com/ghpvc/?username=postmansfarewell&color=ffdf8e&style=for-the-badge&label=wanted+bounty" alt="wanted bounty"/>
+<img src="https://komarev.com/ghpvc/?username=postmansfarewell&color=7299C0&style=for-the-badge&label=wanted+bounty" alt="wanted bounty"/>
 
 </div>
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<div align="center">
-  
-<img src="https://i.imgur.com/KCfrEFR.jpeg" alt="Image" />
-
-</div>
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<p align="center">
+  <img src="https://i.imgur.com/CWzNElI.jpeg" alt="Centered Image" />
+</p>
