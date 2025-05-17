@@ -14,5 +14,5 @@
 </p>
 
 <p align="center">
-  @cheriecrush why are you weird
+  <a href="https://github.com/cheriecrush">@cheriecrush</a> why are you weird
 </p>
