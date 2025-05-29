@@ -27,3 +27,7 @@
 <p align="center">
   <a href="https://github.com/cheriecrush">@cheriecrush</a> why are you weird
 </p>
+
+<p align="center">
+  <img src="https://i.imgur.com/xfPHQwE.png" alt="Koby Quote" />
+</p>
