@@ -7,8 +7,8 @@
   <img src="https://64.media.tumblr.com/385e41bd1e2d7dacc8e16dd1479086f5/131d4b4ac3767ece-ff/s500x750/16b033fca7111b8f5c52525258543a8636003f13.webp" alt="Koby Image" />
 </p>
 
-<p align="center" style="color:#e471aa; font-weight:bold;">
-  "I don't care if I'm weak. I want to be a Marine who can protect people!"
+<p align="center">
+  <font color="#e471aa"><b>"I don't care if I'm weak. I want to be a Marine who can protect people!"</b></font>
 </p>
 
 
