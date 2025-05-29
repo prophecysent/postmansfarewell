@@ -10,10 +10,10 @@
 <p align="center">
   <font color="#e471aa"><b>"I don't care if I'm weak. I want to be a Marine who can protect people!"</b></font>
 </p>
-
-
-
-
+⠀
+⠀
+⠀
+⠀
 
 
 
