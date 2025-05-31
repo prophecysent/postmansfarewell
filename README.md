@@ -4,11 +4,11 @@
 <img src="https://komarev.com/ghpvc/?username=postmansfarewell&color=E471AA&style=for-the-badge&label=wanted+bounty" alt="wanted bounty"/>
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/385e41bd1e2d7dacc8e16dd1479086f5/131d4b4ac3767ece-ff/s500x750/16b033fca7111b8f5c52525258543a8636003f13.webp" alt="Koby Image" />
+  <img src="https://www.pinterest.com/pin/451274825183023295/" alt="Sanj Image" />
 </p>
 
 <p align="center">
-  <font color="#e471aa"><b>"I don't care if I'm weak. I want to be a Marine who can protect people!"</b></font>
+  <font color="#e471aa"><b< Sanji you're weird as fuck I deadass hate you</b></font>
 </p>
 ⠀
 ⠀
