@@ -15,4 +15,3 @@
 <p align="center">
   <img src="https://www.tumblr.com/6chickmagnet9/786839475286360064?source=share" alt="Centered image" />
 </p>
-  
