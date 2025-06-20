@@ -9,5 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/cheriecrush">@cheriecrush</a> why are you weird
+  <a href="https://github.com/cheriecrush">@cheriecrush</a> Wyd wyll cutie
 </p>
+
+<p align="center">
+  <img src="https://www.tumblr.com/6chickmagnet9/786839475286360064?source=share" alt="Centered image" />
+</p>
+  
