@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/cheriecrush">@cheriecrush</a> Wyd wyll cutie
+  <a href="https://github.com/cheriecrush">@cheriecrush</a> Watches me shower cause he's a freak 
 </p>
 
 <p align="center">
