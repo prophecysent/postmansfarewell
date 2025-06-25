@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/33dfaabfb445febca8bb4f31c32a8b9f/49448f2fa72d0cf9-f5/s500x750/d713faf3edbc1040706e65b056fbba6340610775.webp" alt="Centered image" />
+  <img src="https://64.media.tumblr.com/aabd95078ea0c254caa4d777a1329194/ec8bb75d2ed72089-b5/s540x810/6c57e42a332554c32ca862b9ca0a88084aa895f9.gifv" alt="Centered image" />
 </p>
 
 <p align="center">
