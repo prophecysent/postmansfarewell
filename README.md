@@ -13,5 +13,5 @@
 </p>
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/f972a786bf6242f1893361aeedb8957e/a48700691fd303c3-b6/s400x600/b009b46c43035072657a270346d102383146ca1e.webp" alt="Centered image" />
+  <img src="https://64.media.tumblr.com/0102009f59f26af9e7c88bc4125f5fe2/e5e0123fdf565dab-12/s250x400/507aebdd7cc4eddb238c00232b1ee697768ad576.webp" alt="Centered image" />
 </p>
