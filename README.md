@@ -5,11 +5,7 @@
 
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/aabd95078ea0c254caa4d777a1329194/ec8bb75d2ed72089-b5/s540x810/6c57e42a332554c32ca862b9ca0a88084aa895f9.gifv" alt="Centered image" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/cheriecrush">@cheriecrush</a> Watches me shower cause he's a freak 
+  <a href="https://github.com/cheriecrush">@cheriecrush</a> Can you stop abusing and touching me
 </p>
 
 <p align="center">
