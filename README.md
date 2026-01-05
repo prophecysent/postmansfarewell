@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/cheriecrush">@cheriecrush</a> Can you stop abusing and touching me
+  <a href="https://github.com/cheriecrush">@cheriecrush</a> My awesome boyfriend 🤤🤤
 </p>
 
 <p align="center">
